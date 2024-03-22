@@ -1,4 +1,4 @@
-# 代码实践集
+# Python实践集
 
 # 目录
 
@@ -9,13 +9,11 @@
 - [Mine_Clearance-PyQt5](#Mine_Clearance-PyQt5)
 - [Flappy_Bird](#Flappy_Bird)
 
-# 摘要
-
-# 介绍
+# 简介
 
 ## Tkinter_Designer<a id="Tkinter_Designer"></a>
 
-![show](Tkinter_Designer/show.png)
+![](assets/readme/Tkinter_Designer-show.png)
 
 ## Remote_Explorer<a id="Remote_Explorer"></a>
 
@@ -23,7 +21,7 @@
 
 ## Running_Circle<a id="Running_Circle"></a>
 
-![](Running_Circle/369.png)
+![](assets/readme/Running_Circle-show.png)
 
 ## Mine-Clearance-Tkinter<a id="Mine-Clearance-Tkinter"></a>
 
