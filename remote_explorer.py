@@ -1,2 +1,2 @@
-from Remote_Explorer.main import main
+from ioi.Remote_Explorer.main import main
 main()

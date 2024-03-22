@@ -17,7 +17,7 @@ from PyQt5 import uic
 
 
 # 项目根路径
-root_dir = pathlib.Path(r'./Remote_Explorer')
+root_dir = pathlib.Path(r'./ioi/Remote_Explorer')
 
 
 class OSType(enum.Enum):

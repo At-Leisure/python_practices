@@ -1,7 +1,7 @@
 import pygame
 import time
-from Flappy_Bird.classes import Bird, PillarGroup, Pause, CollisionDetector, ScoreDisplay  # 左ctrl-暂停
-from Flappy_Bird import resource,classes
+from ioi.Flappy_Bird.classes import Bird, PillarGroup, Pause, CollisionDetector, ScoreDisplay  # 左ctrl-暂停
+from ioi.Flappy_Bird import resource,classes
 
 GameRun = True
 pause = False

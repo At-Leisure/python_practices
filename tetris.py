@@ -1,6 +1,6 @@
 import pygame
-import Tetris
-from Tetris.constant import *
+from ioi import Tetris
+from ioi.Tetris.constant import *
 import time
 import random
 import numpy as np

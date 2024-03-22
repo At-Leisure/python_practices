@@ -1,2 +1,2 @@
-from Running_Circle.main import _main as main
+from ioi.Running_Circle.main import _main as main
 main()
