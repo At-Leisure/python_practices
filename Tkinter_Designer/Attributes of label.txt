@@ -1,0 +1,23 @@
+anchor	控制文本（或图像）在 Label 中显示的位置（方位），通过方位的英文字符串缩写（n、ne、e、se、s、sw、w、nw、center）实现定位，默认为居中（center）
+bg	用来设置背景色
+bd	即 borderwidth 用来指定 Label 控件的边框宽度，单位为像素，默认为 2 个像素
+bitmap	指定显示在 Label 控件上的位图，若指定了 image 参数，则该参数会被忽略
+compound	控制 Lable 中文本和图像的混合模式，若选项设置为 CENTER，则文本显示在图像上，如果将选项设置为 BOTTOM、LEFT、RIGHT、TOP，则图像显示在文本旁边。
+cursor	指定当鼠标在 Label 上掠过的时候，鼠标的的显示样式，参数值为 arrow、circle、cross、plus
+disableforeground	指定当 Label 设置为不可用状态的时候前景色的颜色
+font	指定 Lable 中文本的 (字体,大小,样式）元组参数格式，一个 Lable 只能设置一种字体
+fg	设置 Label 的前景色
+height/width	设置 Lable 的高度/宽度，如果 Lable 显示的是文本，那么单位是文本单元，如果 Label 显示的是图像，那么单位就是像素，如果不设置，Label 会自动根据内容来计算出标签的高度
+highlightbackground	当 Label 没有获得焦点的时候高亮边框的颜色，系统的默认是标准背景色
+highlightcolor	指定当 Lable 获得焦点的话时候高亮边框的颜色，系统默认为0，不带高亮边框
+image	指定 Label 显示的图片，一般是 PhotoImage、BitmapImage 的对象
+justify	表示多行文本的对齐方式，参数值为 left、right、center，注意文本的位置取决于 anchor 选项
+padx/pady	padx 指定 Label 水平方向上的间距（即内容和边框间），pady 指定 Lable 水平方向上的间距（内容和边框间的距离）
+relief	指定边框样式，默认值是 "flat"，其他参数值有 "groove"、"raised"、"ridge"、"solid"或者"sunken"
+state	该参数用来指定 Lable 的状态，默认值为"normal"（正常状态），其他可选参数值有"active"和"disabled"
+takefocus	默认值为False，如果是 True，表示该标签接受输入焦点
+text	用来指定 Lable 显示的文本，注意文本内可以包含换行符
+underline	给指定的字符添加下划线，默认值为 -1 表示不添加，当设置为 1 时，表示给第二个文本字符添加下划线。
+wraplength	将 Label 显示的文本分行，该参数指定了分行后每一行的长度，默认值为 0
+
+控件获得焦点 就应该是 控件获得接收用户鼠标或键盘输入的能力
