@@ -25,7 +25,7 @@
 
 ## Mine-Clearance-Tkinter<a id="Mine-Clearance-Tkinter"></a>
 
-<暂无>
+![](assets/readme/Mine_Clearance_Tkinter-show.png)
 
 ## Mine_Clearance-PyQt5<a id="Mine_Clearance-PyQt5"></a>
 
@@ -33,7 +33,7 @@
 
 ## Flappy_Bird<a id="Flappy_Bird"></a>
 
-<暂无>
+![](assets/readme/Flappy_Bird-show.png)
 
 # 总结
 
